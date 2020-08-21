@@ -1,0 +1,15 @@
+name,value
+N,10000
+Lambda,1.
+alpha,.5
+beta,.5
+B,0.
+w,1.
+delta,.95
+gamma,.95
+tau,1.
+z,1.
+s,.0
+h,1.
+maxIter,150
+A,1.
