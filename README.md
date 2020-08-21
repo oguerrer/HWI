@@ -5,10 +5,13 @@ This repository contains the code and data used in the paper: *Decentralized Mar
 
 
 ## Code
+The file `model.py` contains all the functions and classes to run the model.
+The `example.ipynb` file is a Jupyter notebok with a script that shows how to run the model.
 
 
 ## Benchmark data
 The file `params_theo.csv` contains the theoretical values for the benchmark analysis performed in section 3 of the paper.
+
 
 ## Empirical data
 
